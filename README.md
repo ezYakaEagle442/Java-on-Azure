@@ -11,7 +11,8 @@ This repo will help you to get your own experience with Java on Azure options, t
     - [with its Spring Config](https://github.com/ezYakaEagle442/aca-cfg-srv/blob/main/application.yml)
 - [Quarkus with Azure Container Apps](https://github.com/ezYakaEagle442/aca-quarkus) 
 - [Azure Key Vault integration in Spring Cloud Azure 4.0](https://github.com/ezYakaEagle442/spring-cloud-az-kv)
-- [Azure SDK for Java](https://github.com/Azure/azure-sdk-for-java)
+- [Azure SDK for Java samples](https://github.com/Azure/azure-sdk-for-java)
+- [Azure SDK for Java documentation](https://docs.microsoft.com/en-us/azure/developer/java/sdk)
 - [Spring Boot samples](https://github.com/Azure-Samples/azure-spring-boot-samples/tree/spring-cloud-azure_4.0.0-beta.2)
 - [Java on Azure samples](https://github.com/Azure-Samples/java-on-azure-examples)
 
