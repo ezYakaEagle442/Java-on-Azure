@@ -2,8 +2,8 @@
 
 This repo will help you to get your own experience with Java on Azure options, through various Microservices scenarios :
 
-- [MS official Azure Spring Cloud sample](https://github.com/Azure-Samples/spring-petclinic-microservices)
-    - [Azure Spring Cloud Petclinic with Bicep and GitHub Action workflows](https://github.com/ezYakaEagle442/azure-spring-cloud-petclinic-mic-srv)
+- [MS official Azure Spring Apps sample](https://github.com/Azure-Samples/spring-petclinic-microservices)
+    - [Azure Spring Apps Petclinic with Bicep and GitHub Action workflows](https://github.com/ezYakaEagle442/azure-spring-apps-petclinic-mic-srv)
     - [with its Spring Config](https://github.com/ezYakaEagle442/spring-petclinic-microservices-config)
 - [Spring Pet Clinic Microservices deployment on AKS](https://github.com/ezYakaEagle442/aks-java-petclinic-mic-srv) including IaC with Azure Bicep, MS build of OpenJDK 11, GitHub Actions, Azure Container Registry, Open Service Mesh, Azure AD Workload Identity and Azure Key Vault.
 - [Spring Pet Clinic Microservices deployment on ARO](https://github.com/ezYakaEagle442/aro-java-petclinic-mic-srv) including IaC with Azure Bicep, MS build of OpenJDK 11, Quarkus, OpenShift Pipelines based on Tekton, OpenShift built-in Registry, Azure AD Workload Identity and Azure Key Vault.
@@ -13,7 +13,7 @@ This repo will help you to get your own experience with Java on Azure options, t
 - [Azure Key Vault integration in Spring Cloud Azure 4.0](https://github.com/ezYakaEagle442/spring-cloud-az-kv)
 - [Azure SDK for Java samples](https://github.com/Azure/azure-sdk-for-java)
 - [Azure SDK for Java documentation](https://docs.microsoft.com/en-us/azure/developer/java/sdk)
-- [Spring Boot samples](https://github.com/Azure-Samples/azure-spring-boot-samples/tree/spring-cloud-azure_4.0.0-beta.2)
+- [Spring Boot samples](https://github.com/Azure-Samples/azure-spring-boot-samples)
 - [Java on Azure samples](https://github.com/Azure-Samples/java-on-azure-examples)
 
 
