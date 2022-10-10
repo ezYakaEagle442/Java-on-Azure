@@ -5,8 +5,10 @@ This repo will help you to get your own experience with Java on Azure options, t
 - [MS official Azure Spring Apps sample](https://github.com/Azure-Samples/spring-petclinic-microservices)
     - [Azure Spring Apps Petclinic with Bicep and GitHub Action workflows](https://github.com/ezYakaEagle442/azure-spring-apps-petclinic-mic-srv)
     - [with its Spring Config](https://github.com/ezYakaEagle442/spring-petclinic-microservices-config)
+    - [Java Open Hack](https://learn.microsoft.com/en-us/training/paths/deploy-run-java-applications-azure-spring-apps) 
 - [Spring Pet Clinic Microservices deployment on AKS](https://github.com/ezYakaEagle442/aks-java-petclinic-mic-srv) including IaC with Azure Bicep, MS build of OpenJDK 11, GitHub Actions, Azure Container Registry, Open Service Mesh, Azure AD Workload Identity and Azure Key Vault.
 - [Spring Pet Clinic Microservices deployment on ARO](https://github.com/ezYakaEagle442/aro-java-petclinic-mic-srv) including IaC with Azure Bicep, MS build of OpenJDK 11, Quarkus, OpenShift Pipelines based on Tekton, OpenShift built-in Registry, Azure AD Workload Identity and Azure Key Vault.
+- [https://github.com/Azure-Samples/app-templates-springboot-app-on-ARO](https://github.com/Azure-Samples/app-templates-springboot-app-on-ARO)
 - [Spring Pet Clinic Microservices deployment on Azure Container Apps](https://github.com/ezYakaEagle442/aca-java-petclinic-mic-srv) including IaC with Azure Bicep, Dapr, MS build of OpenJDK 11, GitHub Actions, Azure Container Registry, Azure Key Vault.
     - [with its Spring Config](https://github.com/ezYakaEagle442/aca-cfg-srv/blob/main/application.yml)
 - [Quarkus with Azure Container Apps](https://github.com/ezYakaEagle442/aca-quarkus) 
