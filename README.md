@@ -17,6 +17,7 @@ This repo will help you to get your own experience with Java on Azure options, t
 - [Azure SDK for Java documentation](https://docs.microsoft.com/en-us/azure/developer/java/sdk)
 - [Spring Boot samples](https://github.com/Azure-Samples/azure-spring-boot-samples)
 - [Java on Azure samples](https://github.com/Azure-Samples/java-on-azure-examples)
+- [Java with Azure Function sample](https://github.com/Azure-Samples/java-on-azure-examples/tree/main/functionapp)
 
 
 # Credits
