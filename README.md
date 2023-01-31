@@ -11,6 +11,8 @@ This repo will help you to get your own experience with Java on Azure options, t
 - [https://github.com/Azure-Samples/app-templates-springboot-app-on-ARO](https://github.com/Azure-Samples/app-templates-springboot-app-on-ARO)
 - [Spring Pet Clinic Microservices deployment on Azure Container Apps](https://github.com/ezYakaEagle442/aca-java-petclinic-mic-srv) including IaC with Azure Bicep, Dapr, MS build of OpenJDK 11, GitHub Actions, Azure Container Registry, Azure Key Vault.
     - [with its Spring Config](https://github.com/ezYakaEagle442/aca-cfg-srv/blob/main/application.yml)
+- [Reddog with Quarkus](https://github.com/appdevgbb/reddog-code-quarkus)
+- [Reddog with Spring Boot](https://github.com/appdevgbb/reddog-code-spring)
 - [Quarkus with Azure Container Apps](https://github.com/ezYakaEagle442/aca-quarkus) 
 - [Azure Key Vault integration in Spring Cloud Azure 4.0](https://github.com/ezYakaEagle442/spring-cloud-az-kv)
 - [Azure SDK for Java samples](https://github.com/Azure/azure-sdk-for-java)
