@@ -13,6 +13,7 @@ This repo will help you to get your own experience with Java on Azure options, t
     - [with its Spring Config](https://github.com/ezYakaEagle442/aca-cfg-srv/blob/main/application.yml)
 - [Reddog with Quarkus](https://github.com/appdevgbb/reddog-code-quarkus)
 - [Reddog with Spring Boot](https://github.com/appdevgbb/reddog-code-spring)
+- [Reddog with Spring Cloud Dapr](https://github.com/appdevgbb/reddog-spring-dapr-aca)
 - [Quarkus with Azure Container Apps](https://github.com/ezYakaEagle442/aca-quarkus) 
 - [Tanzu Application Platform on AKS](https://github.com/ezYakaEagle442/azure-tanzu-application-platform)
 - [Azure Key Vault integration in Spring Cloud Azure 4.0](https://github.com/ezYakaEagle442/spring-cloud-az-kv)
